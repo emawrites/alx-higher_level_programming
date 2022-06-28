@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash/python3
 str = "Holberton School"
-print(f"str*3)
-print(f"str[:9])
+print("3 * str)
+print("str[:9])
