@@ -1,6 +1,6 @@
-#1/usr/bin/python3
-"""A function that returns the list of available attributes and methods of an object"""
+#!/usr/bin/python3
+"""ojbect attribute lookup function."""
 
 def lookup(obj):
-	"""Returns available attributes"""
-	return (dir(obj))
+    """Return object's available attributes."""
+    return (dir(obj))
